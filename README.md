@@ -143,7 +143,7 @@
 <img
   src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=light"
   alt="Frontend technologies"
-  width="50%"
+  width="25%"
 />
 
 ### Backend Development
@@ -151,7 +151,7 @@
 <img
   src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=light"
   alt="Backend technologies"
-  width="50%"
+  width="25%"
 />
 
 ### Database & Infrastructure
@@ -159,7 +159,7 @@
 <img
   src="https://skillicons.dev/icons?i=mysql,postgres,docker,nginx&theme=light"
   alt="Database and infrastructure technologies"
-  width="50%"
+  width="25%"
 />
 
 ### Development Tools
