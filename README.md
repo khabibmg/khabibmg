@@ -32,12 +32,12 @@
 </a>
 
 <p>
-  <a href="https://github.com/khabibmg">
-    <img
-      src="https://img.shields.io/github/followers/khabibmg?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1A1020"
-      alt="GitHub followers"
-    />
-  </a>
+  <a href="https://github.com/khabibmg?tab=followers">
+  <img
+    src="https://img.shields.io/badge/dynamic/json?color=EF93C4&label=Followers&labelColor=1A1020&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhabibmg&style=for-the-badge"
+    alt="GitHub followers"
+  />
+</a>
   <a href="https://github.com/khabibmg?tab=repositories">
     <img
       src="https://img.shields.io/github/stars/khabibmg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=1A1020&label=Stars"
