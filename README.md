@@ -36,7 +36,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=YOUR_TAGLINE_HERE;Building+meaningful+digital+experiences;Turning+ideas+into+working+software;Always+learning%2C+always+building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=lines=Halo!+Saya+Mochammad+Khabib+Maulana;Suka+bikin+aplikasi+web+%26+mobile;Mengubah+ide+menjadi+kode+yang+berfungsi;Selalu+belajar+%26+bereksperimen+hal+baru"
     alt="Animated typing introduction"
   />
 </a>
@@ -44,18 +44,18 @@
 <p>
   <a href="https://github.com/YOUR_USERNAME">
     <img
-      src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1A1020"
+      src="https://img.shields.io/github/followers/khabibmg?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1A1020"
       alt="GitHub followers"
     />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/khabibmg?tab=repositories">
     <img
-      src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=1A1020&label=Stars"
+      src="https://img.shields.io/github/stars/khabibmg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=1A1020&label=Stars"
       alt="GitHub stars"
     />
   </a>
   <img
-    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=khabibmg&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
     alt="Profile views"
   />
 </p>
@@ -79,40 +79,34 @@
     <td width="65%" valign="middle">
       <h3>Hey! Nice to meet you. 👋</h3>
       <p>
-        I'm <strong>Khabib</strong>, a <strong>I like FE & BE</strong>
-        passionate about building useful, reliable, and user-friendly
-        digital products.
+        Saya <strong>Mochammad Khabib Maulana</strong>, mahasiswa Teknik Informatika di <strong>ITATS</strong> yang punya ketertarikan tinggi untuk mempelajari bidang <strong>Front-End</strong> maupun <strong>Back-End</strong>.
       </p>
       <p>
-        💻 <strong>Currently working on:</strong> YOUR_CURRENT_PROJECT
+        🌱 <strong>Sedang mempelajari:</strong> Pondasi dan konsep FE & BE melalui kursus di Udemy serta perkuliahan di ITATS
       </p>
       <p>
-        🌱 <strong>Currently learning:</strong> YOUR_CURRENT_LEARNING
+        👨‍🏫 <strong>Mengajar:</strong> Instruktur ekstrakurikuler coding (mengenalkan dasar Web & Git/GitHub)
       </p>
       <p>
-        🎯 <strong>Goals:</strong> YOUR_SHORT_TERM_AND_LONG_TERM_GOALS
+        🎯 <strong>Tujuan:</strong> Memperdalam pemahaman di ranah FE & BE serta terus mengasah kemampuan membuat aplikasi yang bermanfaat
       </p>
       <p>
-        💡 <strong>Interests:</strong> YOUR_TECHNICAL_INTERESTS
+        🤝 <strong>Terbuka untuk:</strong> Belajar bareng, kolaborasi proyek, dan kesempatan berkembang di dunia software development
       </p>
       <p>
-        🤝 <strong>Open to:</strong> Collaboration, open-source projects,
-        and exciting opportunities.
-      </p>
-      <p>
-        ⚡ <strong>Fun fact:</strong> YOUR_FUN_FACT
+        ⚡ <strong>Fun fact:</strong> Setup harian saya menggunakan CachyOS Linux dengan Hyprland dan suka mengulik dotfiles!
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img
-        src="https://github.com/YOUR_USERNAME.png"
+        src="https://github.com/khabibmg.png"
         width="200"
         alt="YOUR_NAME's GitHub avatar"
         style="border-radius: 50%;"
       />
       <br />
       <br />
-      <a href="https://github.com/YOUR_USERNAME">
+      <a href="https://github.com/khabibmg">
         <img
           src="https://img.shields.io/badge/GitHub-Profile-EF93C4?style=flat-square&logo=github&logoColor=white"
           alt="GitHub profile"
@@ -139,7 +133,7 @@
 ### Languages
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,php,python,java,html,css&theme=light"
+  src="https://skillicons.dev/icons?i=js,php,java,html,css&theme=light"
   alt="Programming languages"
   width="100%"
 />
@@ -147,7 +141,7 @@
 ### Frontend Development
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=light"
+  src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=light"
   alt="Frontend technologies"
   width="100%"
 />
@@ -155,7 +149,7 @@
 ### Backend Development
 
 <img
-  src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi&theme=light"
+  src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=light"
   alt="Backend technologies"
   width="100%"
 />
@@ -163,7 +157,7 @@
 ### Database & Infrastructure
 
 <img
-  src="https://skillicons.dev/icons?i=mysql,postgres,supabase,redis,docker,nginx&theme=light"
+  src="https://skillicons.dev/icons?i=mysql,postgres,docker,nginx&theme=light"
   alt="Database and infrastructure technologies"
   width="100%"
 />
@@ -194,17 +188,17 @@
   <em>A snapshot of my coding journey and open-source activity.</em>
 </p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/khabibmg">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=khabibmg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
     alt="GitHub statistics"
   />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/khabibmg">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khabibmg&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000"
     alt="Most used programming languages"
   />
 </a>
@@ -212,7 +206,7 @@
 <br />
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=FF69B4&dates=999999"
+  src="https://streak-stats.demolab.com?user=khabibmg&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=FF69B4&dates=999999"
   alt="GitHub contribution streak"
   width="70%"
 />
@@ -221,7 +215,7 @@
 <br />
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=khabibmg&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity"
   alt="GitHub contribution activity graph"
   width="100%"
 />
@@ -323,9 +317,9 @@
   <em>A few things I've been building, exploring, and learning from.</em>
 </p>
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
+<a href="https://github.com/khabibmg/contact-management">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=khabib&repo=contact-management&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
     alt="Featured project one"
   />
 </a>
