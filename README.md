@@ -286,27 +286,6 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-<p>
-  <em>A few things I've been building, exploring, and learning from.</em>
-</p>
-
-<a href="https://github.com/khabibmg/contact-management">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=khabib&repo=contact-management&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
-    alt="Featured project one"
-  />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=khabibmg&repo=YOUR_PROJECT_2&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
-    alt="Featured project two"
-  />
-</a>
-
-<br />
-
 <a href="https://github.com/khabibmg?tab=repositories">
   <img
     src="https://img.shields.io/badge/Explore%20All%20Projects-FF69B4?style=for-the-badge&logo=github&logoColor=white"
