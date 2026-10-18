@@ -280,8 +280,6 @@
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
----
-
 <!-- ======================== FEATURED PROJECTS ======================== -->
 
 <div align="center">
@@ -321,7 +319,6 @@
   />
 </a>
 
-<br />
 <br />
 
 **💖 Thanks for stopping by!**
