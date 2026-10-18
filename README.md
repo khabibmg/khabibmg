@@ -10,21 +10,11 @@
 
 <!-- ======================== HERO BANNER ======================== -->
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1020,50:702963,100:EF93C4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=16&descAlignY=58&animation=fadeIn"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=16&descAlignY=58&animation=fadeIn"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=220&section=header"
+<img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1020,50:702963,100:EF93C4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=16&descAlignY=58"
     width="100%"
     alt="Pink gradient header banner"
   />
-</picture>
 
 <!-- ======================== INTRODUCTION ======================== -->
 
