@@ -221,9 +221,6 @@
   <em>Watching my contributions come to life, one commit at a time.</em>
 </p>
 
-<p align="center">
-  <img src="https://pacman-github-contributions.vercel.app/api?username=khabibmg&theme=tokyonight" width="100%" alt="Pacman Contributions" />
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-snake.svg">
