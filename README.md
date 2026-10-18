@@ -187,24 +187,6 @@
 <p>
   <em>A snapshot of my coding journey and open-source activity.</em>
 </p>
-
-<a href="https://github.com/khabibmg">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=khabibmg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
-    alt="GitHub statistics"
-  />
-</a>
-<a href="https://github.com/khabibmg">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khabibmg&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000"
-    alt="Most used programming languages"
-  />
-</a>
-
-<br />
-
 <img
   src="https://streak-stats.demolab.com?user=khabibmg&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=FF69B4&dates=999999"
   alt="GitHub contribution streak"
