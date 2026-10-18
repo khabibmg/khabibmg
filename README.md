@@ -55,9 +55,9 @@
     />
   </a>
   <img
-    src="https://komarev.com/ghpvc/?username=khabibmg&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
+  src="https://img.shields.io/badge/dynamic/json?color=FF69B4&label=PROFILE%20VIEWS&labelColor=1A1020&style=for-the-badge&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkhabibmg%2Fvisits"
+  alt="Profile Views"
+/>
 </p>
 
 <p>
