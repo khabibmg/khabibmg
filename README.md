@@ -219,7 +219,9 @@
   The workflow generates the snake SVG and publishes it to the output
   branch. Make sure the repository allows the workflow to write contents.
 -->
-
+<p align="center">
+  <img src="https://pacman-github-contributions.vercel.app/api?username=khabibmg&theme=tokyonight" width="100%" alt="Pacman Contributions" />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman.svg">
