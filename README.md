@@ -203,16 +203,16 @@
 
 <div align="center">
 
-## 🧊 3D Contribution Calendar
+## 👾 Contribution Pac-Man
 
 <p>
-  <em>My open-source activity rendered in 3D space.</em>
+  <em>Eating up contributions one commit at a time.</em>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-  <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman.svg">
+  <img alt="Animated GitHub contribution Pacman" src="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman.svg">
 </picture>
 
 ## 🐍 Contribution Snake
