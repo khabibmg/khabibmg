@@ -1,8 +1,8 @@
-name: Generate Pacman Animation
+name: Generate Pacman and Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Otomatis update tiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,11 +17,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      # Step 1: Generate Pacman Animation
       - name: Generate Pacman SVG
         uses: SaraFreitas-dev/viz-pacman-github-profile@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # Step 2: Generate Snake Animation
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#EF93C4&color_dots=#1A1020,#301B3F,#46255E,#B8528E,#E377B2
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#EF93C4
+
+      # Step 3: Push All SVGs to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
