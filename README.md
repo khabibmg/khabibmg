@@ -36,7 +36,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=lines=Halo!+Saya+Mochammad+Khabib+Maulana;Suka+bikin+aplikasi+web+%26+mobile;Mengubah+ide+menjadi+kode+yang+berfungsi;Selalu+belajar+%26+bereksperimen+hal+baru"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Halo!+Saya+Mochammad+Khabib+Maulana;Suka+bikin+aplikasi+web+%26+mobile;Mengubah+ide+menjadi+kode+yang+berfungsi;Selalu+belajar+%26+bereksperimen+hal+baru"
     alt="Animated typing introduction"
   />
 </a>
