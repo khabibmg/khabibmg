@@ -42,7 +42,7 @@
 </a>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/khabibmg">
     <img
       src="https://img.shields.io/github/followers/khabibmg?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1A1020"
       alt="GitHub followers"
