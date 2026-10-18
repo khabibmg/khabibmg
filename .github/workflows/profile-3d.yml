@@ -2,7 +2,7 @@ name: GitHub 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Otomatis update tiap malam
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshihide/github-profile-3d-contrib@0.7.1
+      - uses: yoshihide/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -20,5 +20,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated 3d profile"
+          git commit -m "generated 3d profile" || exit 0
           git push
