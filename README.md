@@ -210,7 +210,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman.svg">
   <img alt="Animated GitHub contribution Pacman" src="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-pacman.svg">
 </picture>
