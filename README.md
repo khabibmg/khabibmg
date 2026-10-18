@@ -135,7 +135,7 @@
 <img
   src="https://skillicons.dev/icons?i=js,php,java,html,css&theme=light"
   alt="Programming languages"
-  width="100%"
+  width="25%"
 />
 
 ### Frontend Development
