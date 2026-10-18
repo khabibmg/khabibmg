@@ -13,14 +13,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Generate Pacman-style contribution grid
+      # Generate Pacman animation SVGs
       - name: generate github-contribution-grid-pacman.svg
-        uses: Platane/snk@v3
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-pacman.svg?color_snake=#EF93C4&color_dots=#1A1020,#301B3F,#46255E,#B8528E,#E377B2
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark&color_snake=#EF93C4
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       # Push SVG files to output branch
       - name: push github-contribution-grid-pacman.svg to the output branch
