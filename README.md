@@ -215,7 +215,7 @@
 <br />
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=khabibmg&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=khabibmg&theme=react-dark&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Contribution%20Activity"
   alt="GitHub contribution activity graph"
   width="100%"
 />
