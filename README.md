@@ -203,22 +203,24 @@
 
 <div align="center">
 
+## 🧊 3D Contribution Calendar
+
+<p>
+  <em>My open-source activity rendered in 3D space.</em>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img alt="GitHub 3D Contribution Calendar" src="profile-3d-contrib/profile-night-view.svg" width="100%">
+</picture>
+
 ## 🐍 Contribution Snake
 
 <p>
   <em>Watching my contributions come to life, one commit at a time.</em>
 </p>
 
-<!--
-  GITHUB ACTION SETUP
-
-  Create this file:
-  .github/workflows/contribution-snake.yml
-
-  Add the workflow shown below, commit it, and enable GitHub Actions.
-  The workflow generates the snake SVG and publishes it to the output
-  branch. Make sure the repository allows the workflow to write contents.
--->
 <p align="center">
   <img src="https://pacman-github-contributions.vercel.app/api?username=khabibmg&theme=tokyonight" width="100%" alt="Pacman Contributions" />
 </p>
@@ -227,51 +229,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-snake.svg">
   <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/khabibmg/khabibmg/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 </div>
 
-<!--
-  FILE: .github/workflows/contribution-snake.yml
-
-  Copy the following into the workflow file above.
-  This is a separate file, not part of README.md.
-
-  name: Generate Contribution Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
-
-  permissions:
-    contents: write
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
-
-      steps:
-        - name: Generate contribution snake
-          uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        - name: Publish snake to output branch
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<!-- ======================== FEATURED PROJECTS ======================== -->
 
 <div align="center">
 
