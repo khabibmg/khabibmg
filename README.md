@@ -1,16 +1,401 @@
-## Hi there 👋
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                 GITHUB PROFILE README                       ║
+  ║                                                              ║
+  ║  Replace all placeholders with your actual information.      ║
+  ║  Recommended repository name: YOUR_USERNAME                  ║
+  ║  Theme: Pink / Minimal / Premium                             ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ======================== HERO BANNER ======================== -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1020,50:702963,100:EF93C4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=16&descAlignY=58&animation=fadeIn"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=16&descAlignY=58&animation=fadeIn"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=220&section=header"
+    width="100%"
+    alt="Pink gradient header banner"
+  />
+</picture>
+
+<!-- ======================== INTRODUCTION ======================== -->
+
+<div align="center">
+
+# Hey there, I'm Mochammad Khabib Maulana 👋
+
+### `Khabib` · `FE & BE` · `SIDOARJO`
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=YOUR_TAGLINE_HERE;Building+meaningful+digital+experiences;Turning+ideas+into+working+software;Always+learning%2C+always+building"
+    alt="Animated typing introduction"
+  />
+</a>
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img
+      src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1A1020"
+      alt="GitHub followers"
+    />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=1A1020&label=Stars"
+      alt="GitHub stars"
+    />
+  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+</p>
+
+<p>
+  <em>Welcome to my corner of the internet. Let's build something awesome together.</em>
+</p>
+
+</div>
+
+---
+
+<!-- ======================== ABOUT ME ======================== -->
+
+<div align="center">
+
+## ✨ About Me
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>Hey! Nice to meet you. 👋</h3>
+      <p>
+        I'm <strong>Khabib</strong>, a <strong>I like FE & BE</strong>
+        passionate about building useful, reliable, and user-friendly
+        digital products.
+      </p>
+      <p>
+        💻 <strong>Currently working on:</strong> YOUR_CURRENT_PROJECT
+      </p>
+      <p>
+        🌱 <strong>Currently learning:</strong> YOUR_CURRENT_LEARNING
+      </p>
+      <p>
+        🎯 <strong>Goals:</strong> YOUR_SHORT_TERM_AND_LONG_TERM_GOALS
+      </p>
+      <p>
+        💡 <strong>Interests:</strong> YOUR_TECHNICAL_INTERESTS
+      </p>
+      <p>
+        🤝 <strong>Open to:</strong> Collaboration, open-source projects,
+        and exciting opportunities.
+      </p>
+      <p>
+        ⚡ <strong>Fun fact:</strong> YOUR_FUN_FACT
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://github.com/YOUR_USERNAME.png"
+        width="200"
+        alt="YOUR_NAME's GitHub avatar"
+        style="border-radius: 50%;"
+      />
+      <br />
+      <br />
+      <a href="https://github.com/YOUR_USERNAME">
+        <img
+          src="https://img.shields.io/badge/GitHub-Profile-EF93C4?style=flat-square&logo=github&logoColor=white"
+          alt="GitHub profile"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ======================== TECH STACK ======================== -->
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+<p>
+  <em>Technologies I use to turn ideas into reality.</em>
+</p>
+
+### Languages
+
+<img
+  src="https://skillicons.dev/icons?i=js,ts,php,python,java,html,css&theme=light"
+  alt="Programming languages"
+  width="100%"
+/>
+
+### Frontend Development
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=light"
+  alt="Frontend technologies"
+  width="100%"
+/>
+
+### Backend Development
+
+<img
+  src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi&theme=light"
+  alt="Backend technologies"
+  width="100%"
+/>
+
+### Database & Infrastructure
+
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres,supabase,redis,docker,nginx&theme=light"
+  alt="Database and infrastructure technologies"
+  width="100%"
+/>
+
+### Development Tools
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=light"
+  alt="Development tools"
+  width="100%"
+/>
+
+<br />
+
+<sub>Customize the icons to match your actual skills and experience.</sub>
+
+</div>
+
+---
+
+<!-- ======================== GITHUB STATISTICS ======================== -->
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<p>
+  <em>A snapshot of my coding journey and open-source activity.</em>
+</p>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
+    alt="GitHub statistics"
+  />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=808080&bg_color=00000000"
+    alt="Most used programming languages"
+  />
+</a>
+
+<br />
+
+<img
+  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=FF69B4&dates=999999"
+  alt="GitHub contribution streak"
+  width="70%"
+/>
+
+<br />
+<br />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity"
+  alt="GitHub contribution activity graph"
+  width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ======================== CONTRIBUTION SNAKE ======================== -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<p>
+  <em>Watching my contributions come to life, one commit at a time.</em>
+</p>
 
 <!--
-**khabibmg/khabibmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  GITHUB ACTION SETUP
 
-Here are some ideas to get you started:
+  Create this file:
+  .github/workflows/contribution-snake.yml
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Add the workflow shown below, commit it, and enable GitHub Actions.
+  The workflow generates the snake SVG and publishes it to the output
+  branch. Make sure the repository allows the workflow to write contents.
 -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<!--
+  FILE: .github/workflows/contribution-snake.yml
+
+  Copy the following into the workflow file above.
+  This is a separate file, not part of README.md.
+
+  name: Generate Contribution Snake
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+    push:
+      branches:
+        - main
+
+  permissions:
+    contents: write
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      timeout-minutes: 10
+
+      steps:
+        - name: Generate contribution snake
+          uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        - name: Publish snake to output branch
+          uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+---
+
+<!-- ======================== FEATURED PROJECTS ======================== -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<p>
+  <em>A few things I've been building, exploring, and learning from.</em>
+</p>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
+    alt="Featured project one"
+  />
+</a>
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=khabibmg&repo=YOUR_PROJECT_2&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=808080&bg_color=00000000"
+    alt="Featured project two"
+  />
+</a>
+
+<br />
+
+<a href="https://github.com/khabibmg?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore%20All%20Projects-FF69B4?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore all repositories"
+  />
+</a>
+
+</div>
+
+---
+
+<!-- ======================== CONNECT ======================== -->
+
+<div align="center">
+
+## 💌 Let's Connect
+
+<p>
+  <em>Have an idea, an opportunity, or just want to talk tech? My inbox is open.</em>
+</p>
+<a href="https://www.instagram.com/kurir_getok/">
+  <img
+    src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+<br />
+<a href="mailto:mkhabib47@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Say%20Hello-F8BBD0?style=for-the-badge&logo=gmail&logoColor=1A1020"
+    alt="Email"
+  />
+</a>
+
+<br />
+<br />
+
+**💖 Thanks for stopping by!**
+
+*If you like what you see, consider leaving a ⭐ on a project.*
+
+</div>
+
+<!-- ======================== FOOTER ======================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=130&section=footer&animation=fadeIn"
+    width="100%"
+    alt="Pink waving footer"
+  />
+</p>
+
+<div align="center">
+
+### ✨ Keep creating. Keep learning. Keep shipping. ✨
+
+<sub>Made with 💗 by YOUR_NAME · © YOUR_YEAR</sub>
+
+</div>
