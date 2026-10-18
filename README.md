@@ -34,7 +34,7 @@
 <p>
   <a href="https://github.com/khabibmg?tab=followers">
   <img
-    src="https://img.shields.io/badge/Followers-khabibmg-EF93C4?style=for-the-badge&logo=github&labelColor=1A1020"
+    src="https://img.shields.io/badge/dynamic/json?color=EF93C4&label=Followers&labelColor=1A1020&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhabibmg&style=for-the-badge"
     alt="GitHub followers"
   />
 </a>
