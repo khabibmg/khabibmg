@@ -55,7 +55,7 @@
     />
   </a>
   <img
-  src="https://img.shields.io/badge/dynamic/json?color=FF69B4&label=PROFILE%20VIEWS&labelColor=1A1020&style=for-the-badge&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkhabibmg%2Fvisits"
+  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhabibmg&count_bg=%23FF69B4&title_bg=%231A1020&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false"
   alt="Profile Views"
 />
 </p>
