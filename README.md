@@ -341,6 +341,6 @@
 
 ### ✨ Keep creating. Keep learning. Keep shipping. ✨
 
-<sub>Made with 💗 by YOUR_NAME · © YOUR_YEAR</sub>
+<sub>Made with 💗 by khabib · © 2026</sub>
 
 </div>
